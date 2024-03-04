@@ -1,3 +1,3 @@
-# this is a nesw script for git hub
+# this is a new script for git hub
 library(here)
 library(tidyverse)
