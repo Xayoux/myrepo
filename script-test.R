@@ -7,3 +7,7 @@ library(tidyverse)
 
 # Je rajoute encore une ligne après la première fusion
 2**2
+
+# Je tente de rajoutr une ligne
+321/10
+
